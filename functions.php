@@ -13,6 +13,7 @@ function childhood_styles() {
      wp_enqueue_style( 'header-style', get_template_directory_uri() . 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css' );
 
 };
+
 //5555
 
 /*
